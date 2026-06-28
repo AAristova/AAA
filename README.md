@@ -7,4 +7,4 @@ Hobbies:
 - Music
 - Dancing
 
-![My photo] (photo.jpg)
+![My photo](photo.jpg)
